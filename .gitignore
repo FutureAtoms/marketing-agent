@@ -39,3 +39,14 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Test coverage and reports
+coverage/
+test-results/
+playwright-report/
+
+# Environment files
+.env
+
+# Tamagui cache
+.tamagui/
